@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Tesla Model S",
+      "release_date": "2012-06-22",
+      "Type": "Electric",
+      "Country": "USA",
+      "Brand": "Tesla",
+      "Poster": "https://hips.hearstapps.com/hmg-prod/images/2024-tesla-model-s-107-6572200e43fa1.jpg?crop=0.473xw:0.355xh;0.254xw,0.341xh&resize=1200:*"
+    },
+    {
+      "no": "2",
+      "name": "Toyota Corolla",
+      "release_date": "1966-10-20",
+      "Type": "Sedan",
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Poster": "https://i.postimg.cc/xyzToyotaCorolla.png"
+    },
+    {
+      "no": "3",
+      "name": "Ford F-150",
+      "release_date": "1948-06-01",
+      "Type": "Truck",
+      "Country": "USA",
+      "Brand": "Ford",
+      "Poster": "https://i.postimg.cc/xyzFordF150.png"
+    },
+    {
+      "no": "4",
+      "name": "BMW 3 Series",
+      "release_date": "1975-05-02",
+      "Type": "Sedan",
+      "Country": "Germany",
+      "Brand": "BMW",
+      "Poster": "https://i.postimg.cc/xyzBMW3Series.png"
+    },
+    {
+      "no": "5",
+      "name": "Mercedes-Benz C-Class",
+      "release_date": "1993-06-01",
+      "Type": "Sedan",
+      "Country": "Germany",
+      "Brand": "Mercedes-Benz",
+      "Poster": "https://i.postimg.cc/xyzMercedesCClass.png"
+    },
+    {
+      "no": "6",
+      "name": "Honda Civic",
+      "release_date": "1972-07-11",
+      "Type": "Sedan",
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Poster": "https://i.postimg.cc/xyzHondaCivic.png"
+    },
+    {
+      "no": "7",
+      "name": "Chevrolet Silverado",
+      "release_date": "1998-01-01",
+      "Type": "Truck",
+      "Country": "USA",
+      "Brand": "Chevrolet",
+      "Poster": "https://i.postimg.cc/xyzChevroletSilverado.png"
+    },
+    {
+      "no": "8",
+      "name": "Audi A4",
+      "release_date": "1994-11-01",
+      "Type": "Sedan",
+      "Country": "Germany",
+      "Brand": "Audi",
+      "Poster": "https://i.postimg.cc/xyzAudiA4.png"
+    },
+    {
+      "no": "9",
+      "name": "Nissan Altima",
+      "release_date": "1992-06-15",
+      "Type": "Sedan",
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Poster": "https://i.postimg.cc/xyzNissanAltima.png"
+    },
+    {
+      "no": "10",
+      "name": "Porsche 911",
+      "release_date": "1964-09-12",
+      "Type": "Sports",
+      "Country": "Germany",
+      "Brand": "Porsche",
+      "Poster": "https://i.postimg.cc/xyzPorsche911.png"
+    }
+  ]
+}
